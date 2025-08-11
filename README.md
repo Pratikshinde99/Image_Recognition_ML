@@ -34,3 +34,56 @@ Click below to open the project in Colab and execute it directly in your browser
 git clone https://github.com/Pratikshinde99/Image_Recognition_ML.git
 cd Image_Recognition_ML
 # Open the notebook in Jupyter or Colab
+
+
+
+
+
+
+
+
+📊 Key Features
+Download and preprocess datasets from Kaggle (MNIST, CIFAR-10, Cats & Dogs)
+
+Visualize datasets with Matplotlib
+
+Build, train, and evaluate custom CNNs with TensorFlow/Keras
+
+Implement data augmentation and batch normalization for better generalization
+
+Apply transfer learning with MobileNetV2
+
+Model evaluation: Confusion Matrix, Classification Report, ROC/AUC
+
+Code for saving, loading, and deploying models
+
+
+🎯 Performance Highlights
+Dataset	Accuracy
+MNIST	> 99%
+CIFAR-10	~ 69%
+Cats vs. Dogs (Transfer Learning)	~ 88%
+
+
+📷 Visualization Samples
+Sample predictions with model confidence
+Confusion matrix heatmaps
+ROC curves for binary classification
+
+
+🛠 Skills Demonstrated
+Deep Learning / CNNs
+Data preprocessing & augmentation
+Model evaluation & visualization
+Transfer learning & fine-tuning
+TensorFlow / Keras
+Google Colab & Kaggle integration
+Git version control
+
+
+👨‍💻 Author
+Pratik Shinde
+🔗 LinkedIn
+📂 GitHub Repository
+
+
